@@ -1,0 +1,3 @@
+model/textures/*
+model/*.bin
+model/*.gltf
